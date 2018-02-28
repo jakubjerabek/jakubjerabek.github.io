@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aheaditec.idport.pojistovnacs",
+    "sha256_cert_fingerprints":
+    ["79:49:A5:AE:3C:C3:7E:96:66:72:E5:35:47:52:4E:C3:21:5D:1F:F1:EC:73:98:28:5B:D8:72:99:A1:42:00:F8"]
+  }
+}]
